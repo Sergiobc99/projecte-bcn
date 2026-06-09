@@ -1,1 +1,2 @@
 # projecte-bcn
+- Finalitzat
